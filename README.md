@@ -7,12 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **Anthing Related to Web Development **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harmanpreet077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harmanpreet077" height="30" width="40" /></a>
-<a href="https://instagram.com/harmanpreet_792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harmanpreet_792" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
