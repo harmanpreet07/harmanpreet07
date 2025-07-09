@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harmanpreet Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Projects**
+- 🔭 I’m Fresher  ****
 
-- 🌱 I’m currently learning **frontend**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
