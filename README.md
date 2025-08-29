@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harmanpreet Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate Data analyst and frontend developer from India</h3>
 
 - 🔭 I’m Fresher  ****
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Data Analysis and Web Development**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **Anthing Related to Web Development **
+- 💬 Ask me about **Anthing Related to My Learning **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
