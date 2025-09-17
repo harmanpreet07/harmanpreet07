@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harmanpreet Singh</h1>
-<h3 align="center">Passionate Data analyst and frontend developer from India</h3>
+<h3 align="center">Aspiring Data analyst and frontend developer from India</h3>
 
 - 🔭 I’m Fresher  ****
 
